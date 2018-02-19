@@ -1,0 +1,16 @@
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\bin\Debug\DICE SIMULATION.exe
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\bin\Debug\DICE SIMULATION.pdb
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE_SIMULATION.Form1.resources
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE_SIMULATION.Properties.Resources.resources
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.csproj.GenerateResource.Cache
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.exe
+C:\Users\THOMAS JOHN\Documents\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.pdb
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.exe
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.pdb
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\bin\Debug\DICE SIMULATION.exe
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\bin\Debug\DICE SIMULATION.pdb
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE_SIMULATION.Form1.resources
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE_SIMULATION.Properties.Resources.resources
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.csproj.GenerateResource.Cache
+C:\Users\Improbus\Documents\Visual Studio 2010\Projects\DICE SIMULATION\DICE SIMULATION\obj\x86\Debug\DICE SIMULATION.csprojResolveAssemblyReference.cache
