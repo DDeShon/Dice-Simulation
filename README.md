@@ -1,2 +1,2 @@
 # Dice-Simulation
-Simple dice rolling simulation in C#
+Dice rolling simulation in C#
