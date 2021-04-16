@@ -1,2 +1,2 @@
 # Dice-Simulation
-Dice rolling simulation in C#
+This program simulates rolling dice, created in C#
